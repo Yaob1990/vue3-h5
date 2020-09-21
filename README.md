@@ -11,5 +11,4 @@
    5. 使用 less ，并提交基础的`mixin`，并作为全局css，提供常用的css 函数
    6. 异步加载 `vconsole`，线上环境，无需手动去除，不会打入主包，不会引起包体积增大
    7. ui 框架选择 `vant`，按需引入
-      8. `npm run report` 分析构建包的大小
-      9. 
+   8. `npm run report` 分析构建包的大小
